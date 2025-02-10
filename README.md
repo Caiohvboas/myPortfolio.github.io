@@ -1,2 +1,2 @@
 # myPortfolio.github.io
-Portfolio pessoal usando meus conhecimentos 
+Portfolio pessoal usando meus conhecimentos.
